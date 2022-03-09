@@ -1,2 +1,2 @@
 # test1
-Learning git an github 
+Learning git and github with python
